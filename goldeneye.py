@@ -22,9 +22,9 @@ in order to bring them to their knees by exhausting the resource pool.
 This tool is meant for research purposes only
 and any malicious usage of this tool is prohibited.
 
-@author Jan Seidl <http://wroot.org/>
+@author Ritesh gupta <http://www.github.com/Ritesh12911>
 
-@date 2014-02-18
+@date 2021-11-09
 @version 2.1
 
 @TODO Test in python 3.x
@@ -32,7 +32,7 @@ and any malicious usage of this tool is prohibited.
 LICENSE:
 This software is distributed under the GNU General Public License version 3 (GPLv3)
 
-LEGAL NOTICE:
+LEGAL NOTICE BY RITESH GENUINE:
 THIS SOFTWARE IS PROVIDED FOR EDUCATIONAL USE ONLY!
 IF YOU ENGAGE IN ANY ILLEGAL ACTIVITY
 THE AUTHOR DOES NOT TAKE ANY RESPONSIBILITY FOR IT.
@@ -63,7 +63,7 @@ JOIN_TIMEOUT = 1.0
 DEFAULT_WORKERS = 10
 DEFAULT_SOCKETS = 500
 
-GOLDENEYE_BANNER = 'GoldenEye v2.1 by Jan Seidl <jseidl@wroot.org>'
+GOLDENEYE_BANNER = 'GoldenEye v2.1 by RITESH GUPTA <HTTPS://GITHUB.COM/RITESH12911>'
 
 USER_AGENT_PARTS = {
     'os': {
@@ -550,7 +550,7 @@ def usage():
     print('\t -d, --debug\t\tEnable Debug Mode [more verbose output]\t\t\t(default: False)')
     print('\t -h, --help\t\tShows this help')
     print()
-    print('-----------------------------------------------------------------------------------------------------------')
+    print('--------------------------------------------------------------RITESH-----------------------------------------')
 
 
 def error(msg):
